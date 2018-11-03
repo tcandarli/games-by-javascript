@@ -1,0 +1,42 @@
+html {
+    background-color: white;
+}
+
+header {
+    border: 1px solid #dddddd;
+    height: 50px;
+
+}
+
+.left ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    float: left;
+    background: gray;
+    
+}
+
+.left li {
+    float: left;
+}
+
+.left li a {
+    
+    padding: 8px;
+    
+}
+
+#logoName li {
+    list-style-type: none;
+    float: right;
+} 
+
+#logoImage img {
+    height: 48px;
+    float: right;
+}
+
+ul {
+
+}
